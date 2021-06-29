@@ -1,0 +1,33 @@
+01 conjunto niño 2-12 32 mil
+
+02 pantaloneta en algodón m-xl 20mil
+
+03 pantalon niño 2-16 40000
+
+04 bermuda niño 2-16 38000
+
+05 blusa niña 4-18 25000
+
+06 short niña 4-16 30000
+
+07 franela niño 2-16 18000
+
+08 blusa niña 4-18 25000
+
+09 bemuda dril 2-16 30000
+
+10 polo 1-16 25000
+
+11 franela deportiva caballero m-xl 28000
+
+12 combo conjunto caballero pantalon 28-38 50mil, camiseta s-xl 37000
+
+13 conjunto niña 2-10 32000
+
+14 conjunto niña minnie 2-10 32000
+
+15 braga short niño 0-4  38000
+
+16 conjunto bebe niño 12-18 meses 24-36 meses 40000
+
+17 conjunto bebe 3-12 meses 50000

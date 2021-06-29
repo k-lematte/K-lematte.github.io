@@ -1,0 +1,30 @@
+01 playera adidas dama 35-40 24.000
+
+02 reebok 35-40 35000
+
+03 peritas 35-40 30000
+
+04 bolichero 35-40 38.000
+
+05 baleta deportiva 35-40 35000
+
+06 cierre magico 35-40 38000
+
+07 sandalia plana 35-40 26000
+
+08 adidas luces niño 21-33 38000
+
+09 bolicheroa animal print 35-40 40000
+
+10 deportivo 35-40 43000
+
+11 deportivo cebra 35-40 43000
+
+12 reebok carnaza 35-40 35000
+
+13 skechers tipo media 35-40 37000
+
+14 DEPORTTIVO DAMA 35-40 43000
+
+15 DEPORTIVO NIÑA 21-33 34000
+
