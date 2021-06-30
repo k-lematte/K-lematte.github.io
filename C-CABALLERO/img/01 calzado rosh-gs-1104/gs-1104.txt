@@ -1,12 +1,8 @@
-01 
-crocs sandalias 36-39  65.000
+01 crocs sandalias 36-39  65.000
 
-02 
-new balance  33-43  42.000
+02 new balance  33-43  42.000
 
-03
-
-chancla nike 40-45  45.000
+03 chancla nike 40-45  45.000
 
 04 mafalda velez 35-40 40.000
 
