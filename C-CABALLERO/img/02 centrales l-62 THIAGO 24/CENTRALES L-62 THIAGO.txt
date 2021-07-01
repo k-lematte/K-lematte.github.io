@@ -16,3 +16,18 @@
 
 09 VANZ 35-43 35.000
 
+10 adidas 37-43 43000
+
+11 fila dama 35-40 42000
+
+12 puma dama 35-40 43000
+
+13 diesel cosido 37-40 40000
+
+14 arturo calle 37-43 42000
+
+15 jordan 23 dama 35-40 43000
+
+16 lacoste 37-43 42000
+
+17 new balance dama 35-40 45000
