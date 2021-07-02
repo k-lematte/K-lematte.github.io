@@ -570,7 +570,7 @@ hr {
 /* PAGINACION*/
 
 .paginacion {
- margin:20px 0;
+ margin:10px 0;
 }
 
 .paginacion ul {
@@ -580,12 +580,12 @@ hr {
 
 .paginacion ul li {
 	display:inline-block;
-	margin-right:6px;
+	margin-right:5px;
 }
 
 .paginacion ul li a {
 	display:block;
-	padding:8px 15px;
+	padding:7px 13px;
 	color:#fff;
 	background:#0d5204;
 	text-decoration: none;
@@ -995,7 +995,7 @@ hr {
         width: 70%;
         padding: 90px 0 0 20px; 
     }
-}
+
 
 
 @media (max-width: 450px) {
@@ -1105,7 +1105,7 @@ hr {
         width: 70%;
         padding: 90px 0 0 20px; 
     }
-}
+
 @media (max-width: 415px) {
     .showcase2 h1 {
         color: black;
@@ -1250,9 +1250,8 @@ hr {
     .showcase1 h3 {
         font-size: 2px;
     }
-}
+
     
-}
 @media (max-width: 350px) {
     .showcase2 h1 {
         color: black;
@@ -1364,7 +1363,7 @@ hr {
         width: 70%;
         padding: 90px 0 0 20px; 
     }
-}
+
 
 @media(max-width: 300px) {
     .showcase2 h1 {
@@ -1451,6 +1450,7 @@ hr {
     .news-cards {
         grid-template-columns:(1fr, 1fr);
     }
+
     /*titulo*/
 
 .titulo {
@@ -1459,11 +1459,11 @@ hr {
     color: rgb(58, 248, 0);
 }
 
-    .cards-banner-two .content {
+.cards-banner-two .content {
         width: 70%;
         padding: 90px 0 0 20px; 
-    }
 }
+
 
 
 
@@ -1534,7 +1534,7 @@ hr {
         padding: 6px 0;
     }
 
-    /*titulo*/
+/*titulo*/
 
 .titulo {
     justify-content: center;
