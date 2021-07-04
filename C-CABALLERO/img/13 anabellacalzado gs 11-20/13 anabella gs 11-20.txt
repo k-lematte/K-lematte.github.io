@@ -1,0 +1,60 @@
+01 lacoste 37-43 42000
+
+02 velez kids 21-33 35000
+
+03 fila dama 35-40 45000
+
+04 adidas dama 35-40 45000
+
+05 velez 37-43 42000
+
+06 converse  dama 35-40 42000
+
+07 velez 37-43 40000
+
+08 hugo boss 37-43 42000
+
+09 nike zoom 37-43 43000
+
+10 sandalia dama 35-40 26000
+
+11 hugo boss 37-43  43000
+
+12 polo ralph lauren 37-43 43000
+
+13 lacoste 37-43 43000
+
+14 sandalia corbata dama 35-40 35000
+
+15 tommy hilfiger 34-40 32000
+
+16 arturo calle 37-43 43000
+
+17 converse clasico 35-40 42000
+
+18 velez 37-43 40000
+
+19 bota niño converse 21-33 38000
+
+20 adidas super star nño 21-33 35000
+
+21 puma dama 35-40 43000
+
+22 bota air triple aaa 37-43 55.000
+
+23 sandalia dama poliuretano libiana 35-40 40000
+
+24 adidas upac unisex 35-43 40000
+
+25 sandalia plana piedra 35-40 28000
+
+26 lacoste 37-43 43000
+
+
+
+
+
+
+
+
+
