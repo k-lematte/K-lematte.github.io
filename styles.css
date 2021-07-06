@@ -411,6 +411,15 @@ hr {
 .footer-columnas ul li {
     line-height: .5;
 }
+/*zoom imagen*/
+
+.zoom {
+    transition: transform 2s; 
+}
+ 
+.zoom:hover {
+    transform: scale(1.5); 
+}
 
 /*SHOWCASE2*/
 
