@@ -414,11 +414,11 @@ hr {
 /*zoom imagen*/
 
 .zoom {
-    transition: transform 2s; 
+    transition: transform 1s; 
 }
  
 .zoom:hover {
-    transform: scale(1.5); 
+    transform: scale(1.7); 
 }
 
 /*SHOWCASE2*/
