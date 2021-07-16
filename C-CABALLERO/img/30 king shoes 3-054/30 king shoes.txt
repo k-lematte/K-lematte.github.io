@@ -1,0 +1,21 @@
+01 velez 37-43 40000
+
+02 diesel 37-43 40000
+
+03 nike 270 epic 35-40 40000
+
+04 adidas zx-500 35-40 40000
+
+05 arturo calle 37-43 40000
+
+06 bosi 37-43 40000
+
+07 lacoste 37-43 42000
+
+08 lacoste 37-43 42000 
+
+09 nike air 720 37-43 43000
+
+10 diesel 37-43 40000
+
+11 adidas duramo 37-43 40000
